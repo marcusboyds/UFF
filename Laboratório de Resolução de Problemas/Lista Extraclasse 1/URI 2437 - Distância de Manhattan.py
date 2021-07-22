@@ -1,0 +1,6 @@
+xm, xr, ym, yr = input().split()
+xm = int(xm)
+xr = int(xr)
+ym = int(ym)
+yr = int(yr)
+print(abs(xr-yr)+abs(ym-xm))

@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "string.h": "c"
+    },
+    "python.analysis.extraPaths": [
+        "./Laboratório de Jogos"
+    ]
+}
